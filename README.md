@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Bikramjit Singh! 👋
 
-<!--
-**bikram80/bikram80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Data Analyst specializing in SQL and Python, dedicated to turning data into actionable strategies.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming**: Python, SQL
+- **Data Analysis**: Data Visualization, Risk and Return Analysis, Financial Analysis
+- **Tools**: Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### Risk and Return Analysis
+A comprehensive Jupyter Notebook project evaluating financial assets' risk and return characteristics.
+
+## Let's Connect
+- **LinkedIn**: [linkedin.com/in/bikram-jeet80](https://www.linkedin.com/in/bikram-jeet80)
+
