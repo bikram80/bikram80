@@ -12,6 +12,9 @@ I'm a Data Analyst specializing in SQL and Python, dedicated to turning data int
 ### Risk and Return Analysis
 A comprehensive Jupyter Notebook project evaluating financial assets' risk and return characteristics.
 
+### Fraud Detection in Healthcare
+A comprehensive Jupyter Notebook project predicting frauds in healthcare sector.
+
 ## Let's Connect
 - **LinkedIn**: [linkedin.com/in/bikram-jeet80](https://www.linkedin.com/in/bikram-jeet80)
 
